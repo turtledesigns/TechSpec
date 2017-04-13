@@ -1,0 +1,14 @@
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\bin\Debug\dll_call.exe.config
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\bin\Debug\dll_call.exe
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\bin\Debug\dll_call.pdb
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\obj\Debug\dll_call.csprojResolveAssemblyReference.cache
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\obj\Debug\dll_call.Form1.resources
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\obj\Debug\dll_call.Properties.Resources.resources
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\obj\Debug\dll_call.csproj.GenerateResource.Cache
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\obj\Debug\dll_call.exe
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\obj\Debug\dll_call.pdb
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\bin\Debug\TechSpec.dll
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\dll_call\bin\Debug\TechSpec.pdb
+C:\Users\phil\Desktop\TechSpec\dll_call\bin\Debug\dll_call.exe.config
+C:\Users\phil\Desktop\TechSpec\dll_call\obj\Debug\dll_call.exe
+C:\Users\phil\Desktop\TechSpec\dll_call\obj\Debug\dll_call.pdb

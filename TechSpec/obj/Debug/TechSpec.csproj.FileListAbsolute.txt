@@ -1,0 +1,5 @@
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\TechSpec\bin\Debug\TechSpec.dll
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\TechSpec\bin\Debug\TechSpec.pdb
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\TechSpec\obj\Debug\TechSpec.dll
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\TechSpec\obj\Debug\TechSpec.pdb
+C:\Users\phil\Desktop\Working Folder\code-library\TechSpec\TechSpec\obj\Debug\TechSpec.csprojResolveAssemblyReference.cache
